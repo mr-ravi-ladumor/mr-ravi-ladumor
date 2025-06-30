@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-ravi-ladumor" alt="mr-ravi-ladumor" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
-- 📫 How to reach me **ladumorravi1@gmail.com**
+- 📫 Reach me **ladumorravi1@gmail.com**
 
 
 
